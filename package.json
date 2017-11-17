@@ -18,6 +18,7 @@
         , "WIFIMANAGER-ESP32" : "https://github.com/zhouhan0126/WIFIMANAGER-ESP32.git"
         , "WebServer-esp32" : "https://github.com/zhouhan0126/WebServer-esp32.git"
         , "DNSServer---esp32" : "https://github.com/zhouhan0126/DNSServer---esp32.git"
+       , "path-to-regexp" : "2.1.0"
       },
     "cpu" : [ "ESP32" ]
 }
